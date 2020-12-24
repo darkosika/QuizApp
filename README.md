@@ -1,3 +1,3 @@
 # QuizApp
 
-![](/app/src/main/res/drawable/1)
+![](/app/src/main/res/drawable/1.jpeg)
